@@ -6,6 +6,7 @@ public class MyFirstProject {
 		System.out.println("xcv");
 		System.out.println("zxcv");
 		
+		System.out.println("hai ");
 	}
 
 }
