@@ -5,6 +5,7 @@ public class MyFirstProject {
 		System.out.println("hi dude");
 		System.out.println("hello dude");
 		
+		System.out.println("hai ");
 	}
 
 }
